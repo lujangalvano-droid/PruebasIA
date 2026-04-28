@@ -1,122 +1,122 @@
-Ciudad;Fecha;Hora;clima;km;Tmax;Tmin;kmviento;viento;presion
-Azul;28-abril-2026;07:00;Algo nublado;15 km;5.9;3.5; 79;Norte  11;996.1 
- Bah�a Blanca;28-abril-2026;07:00;Algo nublado;15 km;3.2;-0.4; 83;Norte  14;1002.4 
- Benito Ju�rez;27-abril-2026;21:00;Parcialmente nublado;10 km;6.6;No se calcula; 82;Oeste  3;989.2 
- Bol�var;28-abril-2026;07:00;Cubierto;15 km;8;No se calcula; 76;Calma;1003.4 
- Campo de Mayo;27-abril-2026;21:00;Parcialmente nublado;10 km;6.5;5.6; 88;Oeste  5;1014.4 
- Coronel Suarez;28-abril-2026;07:00;Despejado;12 km;2.1;-1.1; 83;Oeste  11;985.2 
- Dolores;27-abril-2026;21:00;Parcialmente nublado;10 km;9;7.3; 88;Oeste  11;1014.5 
- El Palomar;28-abril-2026;07:00;Parcialmente nublado;10 km;8;7.3; 75;Norte  5;1015.4 
- Ezeiza;28-abril-2026;07:00;Parcialmente nublado;10 km;8.8;No se calcula; 81;Calma;1014.2 
- Jun�n;28-abril-2026;07:00;Parcialmente nublado;12 km;8.5;7.4; 66;Norte  7;1006.6 
- La Plata;28-abril-2026;07:00;Parcialmente nublado;10 km;5.1;No se calcula; 85;Calma;1014.6 
- Las Flores;28-abril-2026;06:00;Algo nublado;15 km;6.4;No se calcula; 82;Calma;1012.1 
- Mar del Plata;28-abril-2026;07:00;Parcialmente nublado;10 km;4.9;2.0; 90;Noroeste  13;1010.9 
- Mariano Moreno;27-abril-2026;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 73;Noroeste  3;1013 
- Merlo;28-abril-2026;07:00;Cubierto;10 km;8;7.3; 73;Oeste  5;1015.2 
- Mor�n;28-abril-2026;07:00;Nublado;10 km;9;7.6; 66;Norte  9;1013.4 
- Nueve de Julio;27-abril-2026;21:00;Parcialmente nublado;15 km;9.8;8.2; 62;Oeste  11;1007.4 
- Olavarr�a;27-abril-2026;21:00;Algo nublado;15 km;5.4;4.3; 92;Oeste  5;994.9 
- Pehuaj�;27-abril-2026;21:00;Algo nublado;15 km;8.9;8.3; 72;Oeste  5;1006 
- Pigu�;27-abril-2026;21:00;Nublado;20 km;5.8;No se calcula; 65;Este  3;978 
- Punta Indio B.A.;27-abril-2026;21:00;Algo nublado;10 km;12;No se calcula; 78;Noroeste  11;1013.8 
- San Fernando;28-abril-2026;07:00;Nublado;10 km;9;8.0; 76;Norte  7;1016.2 
- Tandil;27-abril-2026;21:00;Parcialmente nublado;10 km;6.8;5.4; 84;Sudoeste  7;993.8 
- Trenque Lauquen;27-abril-2026;21:00;Parcialmente nublado;15 km;10;9.1; 62;Noreste  7;1004.2 
- Tres Arroyos;27-abril-2026;21:00;Parcialmente nublado con neblina;5 km;7.4;No se calcula; 87;Norte  1;1000.2 
- Villa Gesell;27-abril-2026;21:00;Nublado;10 km;8.5;6.7; 97;Oeste  11;1013.7 
- Aeroparque Buenos Aires;28-abril-2026;07:00;Parcialmente nublado;10 km;10.5;No se calcula; 56;Noroeste  11;1016.1 
- Buenos Aires;28-abril-2026;07:00;Cubierto;10 km;10.9;No se calcula; 54;Noroeste  5;1013.8 
- Catamarca;28-abril-2026;07:00;Algo nublado;20 km;6.4;5.5; 94;Este  5;961.4 
- Tinogasta;27-abril-2026;21:00;Despejado;20 km;14.6;No se calcula; 58;Este  14;878.6 
- Pcia. Roque Saenz Pe�a;28-abril-2026;07:00;Despejado;20 km;6.7;No se calcula; 95;Calma;1005.7 
- Resistencia;28-abril-2026;07:00;Despejado;15 km;10.3;No se calcula; 89;Sudeste  7;1011 
- Comodoro Rivadavia;28-abril-2026;07:00;Nublado;30 km;8.9;6.2; 60;Oeste  18;998.6 
- Esquel;28-abril-2026;07:00;Nublado;30 km;1.6;-0.7; 88;Direcciones Variables  7;918 
- Paso De Indios;27-abril-2026;21:00;Algo nublado;45 km;11.8;No se calcula; 61;Sudoeste  24;954.6 
- Puerto Madryn;28-abril-2026;07:00;Algo nublado;30 km;3.4;-0.7; 85;Oeste  18;993 
- Trelew;28-abril-2026;07:00;Algo nublado;30 km;2.6;0.5; 80;Noroeste  7;1004.2 
- C�rdoba;28-abril-2026;07:00;Parcialmente nublado;15 km;6.4;5.5; 94;Sur  5;958.9 
- C�rdoba Observatorio;28-abril-2026;07:00;Algo nublado;10 km;7.7;No se calcula; 76;Sudoeste  1;967 
- Esc. Aviaci�n Militar;28-abril-2026;07:00;Parcialmente nublado;10 km;6.4;No se calcula; 91;Calma;959 
- Laboulaye;28-abril-2026;07:00;Nublado;10 km;10.6;No se calcula; 72;Noroeste  3;999.3 
- Marcos Ju�rez;27-abril-2026;21:00;Algo nublado;20 km;6.3;4.4; 75;Norte  9;1004 
- Pilar Obs.;28-abril-2026;07:00;Parcialmente nublado;10 km;6.9;No se calcula; 87;Sur  3;977.3 
- R�o Cuarto;28-abril-2026;07:00;Nublado;15 km;9.9;7.8; 70;Oeste  14;967.2 
- Villa Dolores;27-abril-2026;21:00;Parcialmente nublado;30 km;9.8;8.2; 75;Sudeste  11;950.1 
- Villa Mar�a Del R�o Seco;27-abril-2026;21:00;Despejado;10 km;11.2;No se calcula; 72;Norte  3;977 
- Corrientes;28-abril-2026;07:00;Despejado;10 km;9.7;8.1; 93;Sur  11;1009.8 
- Ituzaing�;27-abril-2026;21:00;Despejado con neblina;3.0 km;12;No se calcula; 93;Calma;1009.4 
- Mercedes;27-abril-2026;21:00;Despejado;15 km;11;No se calcula; 66;Oeste  3;1006.5 
- Monte Caseros;28-abril-2026;07:00;Despejado con humo;10 km;4.6;2.8; 93;Sur  7;1013 
- Paso De Los Libres;28-abril-2026;07:00;Despejado con neblina;8 km;6;5.0; 95;Sur  5;1011 
- Concordia;28-abril-2026;07:00;Despejado;15 km;2.5;No se calcula; 96;Calma;1015.2 
- Gualeguaych�;28-abril-2026;07:00;Parcialmente nublado;15 km;5.7;4.7; 86;Norte  5;1015.7 
- Paran�;28-abril-2026;07:00;Algo nublado;15 km;6.6;No se calcula; 91;Calma;1009 
- Formosa;28-abril-2026;07:00;Despejado;20 km;10.7;No se calcula; 92;Sudeste  7;1009.8 
- Las Lomitas;28-abril-2026;07:00;Despejado;20 km;10.6;No se calcula; 92;Sudeste  1;1000.5 
- Mount Pleasant Airport (Islas Malvinas);28-abril-2026;07:00;Algo nublado;20 km;4.6;1.3; 93;Noroeste  14;991.3 
- La Quiaca;28-abril-2026;07:00;Algo nublado;30 km;-2.2;No se calcula; 45;Sur  3;672.9 
- Jujuy;28-abril-2026;07:00;Cubierto con neblina;3.0 km;10.3;No se calcula; 98;Direcciones Variables  1;911.6 
- Jujuy Universidad Nacional;28-abril-2026;07:00;Cubierto con neblina;2.0 km;10.7;No se calcula; 95;Calma;868 
- General Pico;28-abril-2026;07:00;Despejado;20 km;6.9;4.4; 72;Oeste  13;997.3 
- Victorica;27-abril-2026;21:00;Nublado;40 km;12.2;No se calcula; 44;Oeste  9;977.8 
- Santa Rosa;28-abril-2026;07:00;Despejado;30 km;6.1;4.1; 85;Oeste  9;991 
- Chamical;27-abril-2026;21:00;Despejado;20 km;13.5;No se calcula; 61;Calma;960.8 
- Chepes;27-abril-2026;21:00;Parcialmente nublado;15 km;12.2;No se calcula; 62;Norte  3;939 
- Chilecito;27-abril-2026;21:00;Despejado;20 km;13.8;No se calcula; 57;Sur  9;909 
- La Rioja;28-abril-2026;07:00;Despejado;20 km;7.6;6.9; 86;Sudeste  5;965.7 
- Malargue;28-abril-2026;07:00;Algo nublado;20 km;2.4;0.9; 80;Sudoeste  5;859.3 
- Mendoza;28-abril-2026;07:00;Despejado;15 km;6.5;No se calcula; 74;Oeste  3;936.2 
- Mendoza Observatorio;28-abril-2026;07:00;Despejado;15 km;6.9;6.1; 66;Oeste  5;922.6 
- San Mart�n (Mza);27-abril-2026;21:00;Algo nublado;15 km;10.7;No se calcula; 75;Sur  3;938.4 
- San Rafael;28-abril-2026;07:00;Algo nublado;20 km;8.5;5.9; 51;Oeste  16;930.2 
- Uspallata;27-abril-2026;21:00;Despejado;15 km;16.8;No se calcula; 25;Oeste  9;810 
- Bernardo De Irigoyen;27-abril-2026;21:00;Despejado;20 km;11;No se calcula; 93;Sur  3;924.5 
- Iguaz�;28-abril-2026;07:00;Algo nublado;20 km;7.2;No se calcula; 91;Oeste  3;984.8 
- Ober�;27-abril-2026;21:00;Despejado;10 km;12.8;No se calcula; 90;Sur  3;983.3 
- Posadas;28-abril-2026;07:00;Despejado;20 km;9.8;7.9; 76;Sudeste  13;1002.9 
- Chapelco;28-abril-2026;07:00;Algo nublado;15 km;8;4.3; 79;Oeste  25;923.4 
- Neuqu�n;28-abril-2026;07:00;Despejado;15 km;4.2;No se calcula; 86;Calma;981.8 
- Bariloche;28-abril-2026;07:00;Parcialmente nublado;10 km;8.3;4.3; 75;Noroeste  31;916.4 
- Cipolletti;27-abril-2026;21:00;Algo nublado;25 km;10.5;No se calcula; 50;Calma;982.8 
- El Bols�n;27-abril-2026;21:00;Parcialmente nublado;30 km;6.4;No se calcula; 92;Calma;976.9 
- Maquinchao;28-abril-2026;07:00;Despejado;40 km;0.6;No se calcula; 96;Calma;910.2 
- R�o Colorado;27-abril-2026;21:00;Algo nublado;15 km;7.2;No se calcula; 66;Noroeste  3;1002.1 
- San Antonio Oeste;27-abril-2026;21:00;Algo nublado;30 km;8.8;No se calcula; 48;Sudoeste  3;1009.2 
- Viedma;28-abril-2026;07:00;Despejado;30 km;2.4;-0.7; 87;Noroeste  11;1009.2 
- Met�n;27-abril-2026;21:00;Cubierto con neblina;5 km;10;No se calcula; 92;Noreste  3;920.2 
- Or�n;28-abril-2026;07:00;Cubierto;10 km;14.5;No se calcula; 92;Calma;972.5 
- Rivadavia;28-abril-2026;06:00;Despejado;20 km;12.4;No se calcula; 85;Calma;989.7 
- Salta;28-abril-2026;07:00;Cubierto con neblina;12 km;10.9;No se calcula; 93;Calma;877.9 
- Tartagal;27-abril-2026;21:00;Nublado;10 km;13.4;No se calcula; 89;Sur  5;966.6 
- Jachal;27-abril-2026;21:00;Algo nublado con polvo en suspensi�n;10 km;13.4;No se calcula; 37;Sudeste  3;882.8 
- San Juan;28-abril-2026;07:00;Parcialmente nublado;15 km;6.9;No se calcula; 53;Sur  3;947.8 
- San Luis;28-abril-2026;07:00;Cubierto;20 km;9;8.5; 72;Norte  5;935.6 
- Santa Rosa del Conlara;27-abril-2026;21:00;Despejado;20 km;7.4;5.7; 77;Este  9;944 
- Villa Reynolds;28-abril-2026;07:00;Nublado con lluvia;8 km;10;No se calcula; 75;Calma;959.8 
- El Calafate;28-abril-2026;07:00;Nublado con precipitaci�n a la vista;20 km;4.4;No se calcula; 71;Direcciones Variables  3;970.6 
- Gobernador Gregores;27-abril-2026;21:00;Despejado;45 km;6;4.0; 59;Norte  9;964.5 
- Perito Moreno;27-abril-2026;21:00;Despejado;50 km;9.4;5.7; 61;Oeste  31;958 
- Puerto Deseado;27-abril-2026;21:00;Despejado con lluvia en la hora anterior;30 km;10.8;No se calcula; 32;Sur  24;997.6 
- R�o Gallegos;28-abril-2026;07:00;Nublado;30 km;5.4;No se calcula; 69;Direcciones Variables  1;993.4 
- San Juli�n;27-abril-2026;21:00;Algo nublado;30 km;6.7;4.9; 67;Norte  9;999 
- Santa Cruz;27-abril-2026;21:00;Parcialmente nublado;30 km;7;6.2; 71;Sudeste  5;991.8 
- Ceres;28-abril-2026;06:00;Algo nublado;15 km;8.8;No se calcula; 86;Noreste  3;1006.2 
- Rafaela;28-abril-2026;06:00;Despejado;10 km;5.4;No se calcula; 94;Calma;1005.7 
- Reconquista;28-abril-2026;07:00;Algo nublado con neblina;10 km;11.3;No se calcula; 87;Este  5;1011.7 
- Rosario;28-abril-2026;07:00;Cubierto;15 km;7.8;No se calcula; 87;Norte  3;1014.2 
- Santa Fe;28-abril-2026;07:00;Despejado;12 km;5.2;4.1; 90;Noreste  5;1016 
- Sunchales;28-abril-2026;07:00;Parcialmente nublado;15 km;6;No se calcula; 90;Este  3;1006.9 
- Venado Tuerto;28-abril-2026;07:00;Cubierto;10 km;9.7;No se calcula; 76;Calma;1004.1 
- Termas de Rio Hondo;27-abril-2026;21:00;Cubierto;10 km;13.9;No se calcula; 66;Noreste  9;984.4 
- Santiago del Estero;28-abril-2026;07:00;Parcialmente nublado con neblina;10 km;9.6;No se calcula; 92;Calma;992.6 
- R�o Grande B.A.;28-abril-2026;07:00;Cubierto;30 km;6.8;3.1; 75;Oeste  22;992.1 
- Ushuaia;28-abril-2026;07:00;Parcialmente nublado;30 km;5.8;No se calcula; 80;Este  3;985.2 
- Tucum�n;28-abril-2026;07:00;Cubierto con neblina;9 km;10.5;No se calcula; 91;Norte  7;963 
- Base Belgrano II;28-abril-2026;06:00;Algo nublado;20 km;-21.7;-30.4; 67;Sur  13;953.6 
- Base Esperanza;28-abril-2026;06:00;Cubierto;10 km;3.3;-1.8; 63;Oeste  25;971.4 
- Base Carlini;28-abril-2026;06:00;Nublado;10 km;1.6;-4.8; 100;Noroeste  35;977.2 
- Base Marambio;28-abril-2026;07:00;Cubierto con nevada;Menor a 100 mts;-10.6;-24.7; 70;Sur  77;950.2 
- Base Orcadas;28-abril-2026;06:00;Cubierto con lluvia;5 km;1.7;-5.3; 92;Norte  42;994.2 
- Base San Mart�n;28-abril-2026;06:00;Cubierto;20 km;-2.2;-10.0; 60;Este  37;971.4 
+Ciudad,Fecha,Hora,clima,km,Tmax,Tmin,kmviento,viento,presion
+Azul,28-abril-2026,07:00,Algo nublado,15 km,5.9,3.5, 79,Norte  11,996.1 
+ Bah�a Blanca,28-abril-2026,07:00,Algo nublado,15 km,3.2,-0.4, 83,Norte  14,1002.4 
+ Benito Ju�rez,27-abril-2026,21:00,Parcialmente nublado,10 km,6.6,No se calcula, 82,Oeste  3,989.2 
+ Bol�var,28-abril-2026,07:00,Cubierto,15 km,8,No se calcula, 76,Calma,1003.4 
+ Campo de Mayo,27-abril-2026,21:00,Parcialmente nublado,10 km,6.5,5.6, 88,Oeste  5,1014.4 
+ Coronel Suarez,28-abril-2026,07:00,Despejado,12 km,2.1,-1.1, 83,Oeste  11,985.2 
+ Dolores,27-abril-2026,21:00,Parcialmente nublado,10 km,9,7.3, 88,Oeste  11,1014.5 
+ El Palomar,28-abril-2026,07:00,Parcialmente nublado,10 km,8,7.3, 75,Norte  5,1015.4 
+ Ezeiza,28-abril-2026,07:00,Parcialmente nublado,10 km,8.8,No se calcula, 81,Calma,1014.2 
+ Jun�n,28-abril-2026,07:00,Parcialmente nublado,12 km,8.5,7.4, 66,Norte  7,1006.6 
+ La Plata,28-abril-2026,07:00,Parcialmente nublado,10 km,5.1,No se calcula, 85,Calma,1014.6 
+ Las Flores,28-abril-2026,06:00,Algo nublado,15 km,6.4,No se calcula, 82,Calma,1012.1 
+ Mar del Plata,28-abril-2026,07:00,Parcialmente nublado,10 km,4.9,2.0, 90,Noroeste  13,1010.9 
+ Mariano Moreno,27-abril-2026,21:00,Parcialmente nublado,10 km,8.8,No se calcula, 73,Noroeste  3,1013 
+ Merlo,28-abril-2026,07:00,Cubierto,10 km,8,7.3, 73,Oeste  5,1015.2 
+ Mor�n,28-abril-2026,07:00,Nublado,10 km,9,7.6, 66,Norte  9,1013.4 
+ Nueve de Julio,27-abril-2026,21:00,Parcialmente nublado,15 km,9.8,8.2, 62,Oeste  11,1007.4 
+ Olavarr�a,27-abril-2026,21:00,Algo nublado,15 km,5.4,4.3, 92,Oeste  5,994.9 
+ Pehuaj�,27-abril-2026,21:00,Algo nublado,15 km,8.9,8.3, 72,Oeste  5,1006 
+ Pigu�,27-abril-2026,21:00,Nublado,20 km,5.8,No se calcula, 65,Este  3,978 
+ Punta Indio B.A.,27-abril-2026,21:00,Algo nublado,10 km,12,No se calcula, 78,Noroeste  11,1013.8 
+ San Fernando,28-abril-2026,07:00,Nublado,10 km,9,8.0, 76,Norte  7,1016.2 
+ Tandil,27-abril-2026,21:00,Parcialmente nublado,10 km,6.8,5.4, 84,Sudoeste  7,993.8 
+ Trenque Lauquen,27-abril-2026,21:00,Parcialmente nublado,15 km,10,9.1, 62,Noreste  7,1004.2 
+ Tres Arroyos,27-abril-2026,21:00,Parcialmente nublado con neblina,5 km,7.4,No se calcula, 87,Norte  1,1000.2 
+ Villa Gesell,27-abril-2026,21:00,Nublado,10 km,8.5,6.7, 97,Oeste  11,1013.7 
+ Aeroparque Buenos Aires,28-abril-2026,07:00,Parcialmente nublado,10 km,10.5,No se calcula, 56,Noroeste  11,1016.1 
+ Buenos Aires,28-abril-2026,07:00,Cubierto,10 km,10.9,No se calcula, 54,Noroeste  5,1013.8 
+ Catamarca,28-abril-2026,07:00,Algo nublado,20 km,6.4,5.5, 94,Este  5,961.4 
+ Tinogasta,27-abril-2026,21:00,Despejado,20 km,14.6,No se calcula, 58,Este  14,878.6 
+ Pcia. Roque Saenz Pe�a,28-abril-2026,07:00,Despejado,20 km,6.7,No se calcula, 95,Calma,1005.7 
+ Resistencia,28-abril-2026,07:00,Despejado,15 km,10.3,No se calcula, 89,Sudeste  7,1011 
+ Comodoro Rivadavia,28-abril-2026,07:00,Nublado,30 km,8.9,6.2, 60,Oeste  18,998.6 
+ Esquel,28-abril-2026,07:00,Nublado,30 km,1.6,-0.7, 88,Direcciones Variables  7,918 
+ Paso De Indios,27-abril-2026,21:00,Algo nublado,45 km,11.8,No se calcula, 61,Sudoeste  24,954.6 
+ Puerto Madryn,28-abril-2026,07:00,Algo nublado,30 km,3.4,-0.7, 85,Oeste  18,993 
+ Trelew,28-abril-2026,07:00,Algo nublado,30 km,2.6,0.5, 80,Noroeste  7,1004.2 
+ C�rdoba,28-abril-2026,07:00,Parcialmente nublado,15 km,6.4,5.5, 94,Sur  5,958.9 
+ C�rdoba Observatorio,28-abril-2026,07:00,Algo nublado,10 km,7.7,No se calcula, 76,Sudoeste  1,967 
+ Esc. Aviaci�n Militar,28-abril-2026,07:00,Parcialmente nublado,10 km,6.4,No se calcula, 91,Calma,959 
+ Laboulaye,28-abril-2026,07:00,Nublado,10 km,10.6,No se calcula, 72,Noroeste  3,999.3 
+ Marcos Ju�rez,27-abril-2026,21:00,Algo nublado,20 km,6.3,4.4, 75,Norte  9,1004 
+ Pilar Obs.,28-abril-2026,07:00,Parcialmente nublado,10 km,6.9,No se calcula, 87,Sur  3,977.3 
+ R�o Cuarto,28-abril-2026,07:00,Nublado,15 km,9.9,7.8, 70,Oeste  14,967.2 
+ Villa Dolores,27-abril-2026,21:00,Parcialmente nublado,30 km,9.8,8.2, 75,Sudeste  11,950.1 
+ Villa Mar�a Del R�o Seco,27-abril-2026,21:00,Despejado,10 km,11.2,No se calcula, 72,Norte  3,977 
+ Corrientes,28-abril-2026,07:00,Despejado,10 km,9.7,8.1, 93,Sur  11,1009.8 
+ Ituzaing�,27-abril-2026,21:00,Despejado con neblina,3.0 km,12,No se calcula, 93,Calma,1009.4 
+ Mercedes,27-abril-2026,21:00,Despejado,15 km,11,No se calcula, 66,Oeste  3,1006.5 
+ Monte Caseros,28-abril-2026,07:00,Despejado con humo,10 km,4.6,2.8, 93,Sur  7,1013 
+ Paso De Los Libres,28-abril-2026,07:00,Despejado con neblina,8 km,6,5.0, 95,Sur  5,1011 
+ Concordia,28-abril-2026,07:00,Despejado,15 km,2.5,No se calcula, 96,Calma,1015.2 
+ Gualeguaych�,28-abril-2026,07:00,Parcialmente nublado,15 km,5.7,4.7, 86,Norte  5,1015.7 
+ Paran�,28-abril-2026,07:00,Algo nublado,15 km,6.6,No se calcula, 91,Calma,1009 
+ Formosa,28-abril-2026,07:00,Despejado,20 km,10.7,No se calcula, 92,Sudeste  7,1009.8 
+ Las Lomitas,28-abril-2026,07:00,Despejado,20 km,10.6,No se calcula, 92,Sudeste  1,1000.5 
+ Mount Pleasant Airport (Islas Malvinas),28-abril-2026,07:00,Algo nublado,20 km,4.6,1.3, 93,Noroeste  14,991.3 
+ La Quiaca,28-abril-2026,07:00,Algo nublado,30 km,-2.2,No se calcula, 45,Sur  3,672.9 
+ Jujuy,28-abril-2026,07:00,Cubierto con neblina,3.0 km,10.3,No se calcula, 98,Direcciones Variables  1,911.6 
+ Jujuy Universidad Nacional,28-abril-2026,07:00,Cubierto con neblina,2.0 km,10.7,No se calcula, 95,Calma,868 
+ General Pico,28-abril-2026,07:00,Despejado,20 km,6.9,4.4, 72,Oeste  13,997.3 
+ Victorica,27-abril-2026,21:00,Nublado,40 km,12.2,No se calcula, 44,Oeste  9,977.8 
+ Santa Rosa,28-abril-2026,07:00,Despejado,30 km,6.1,4.1, 85,Oeste  9,991 
+ Chamical,27-abril-2026,21:00,Despejado,20 km,13.5,No se calcula, 61,Calma,960.8 
+ Chepes,27-abril-2026,21:00,Parcialmente nublado,15 km,12.2,No se calcula, 62,Norte  3,939 
+ Chilecito,27-abril-2026,21:00,Despejado,20 km,13.8,No se calcula, 57,Sur  9,909 
+ La Rioja,28-abril-2026,07:00,Despejado,20 km,7.6,6.9, 86,Sudeste  5,965.7 
+ Malargue,28-abril-2026,07:00,Algo nublado,20 km,2.4,0.9, 80,Sudoeste  5,859.3 
+ Mendoza,28-abril-2026,07:00,Despejado,15 km,6.5,No se calcula, 74,Oeste  3,936.2 
+ Mendoza Observatorio,28-abril-2026,07:00,Despejado,15 km,6.9,6.1, 66,Oeste  5,922.6 
+ San Mart�n (Mza),27-abril-2026,21:00,Algo nublado,15 km,10.7,No se calcula, 75,Sur  3,938.4 
+ San Rafael,28-abril-2026,07:00,Algo nublado,20 km,8.5,5.9, 51,Oeste  16,930.2 
+ Uspallata,27-abril-2026,21:00,Despejado,15 km,16.8,No se calcula, 25,Oeste  9,810 
+ Bernardo De Irigoyen,27-abril-2026,21:00,Despejado,20 km,11,No se calcula, 93,Sur  3,924.5 
+ Iguaz�,28-abril-2026,07:00,Algo nublado,20 km,7.2,No se calcula, 91,Oeste  3,984.8 
+ Ober�,27-abril-2026,21:00,Despejado,10 km,12.8,No se calcula, 90,Sur  3,983.3 
+ Posadas,28-abril-2026,07:00,Despejado,20 km,9.8,7.9, 76,Sudeste  13,1002.9 
+ Chapelco,28-abril-2026,07:00,Algo nublado,15 km,8,4.3, 79,Oeste  25,923.4 
+ Neuqu�n,28-abril-2026,07:00,Despejado,15 km,4.2,No se calcula, 86,Calma,981.8 
+ Bariloche,28-abril-2026,07:00,Parcialmente nublado,10 km,8.3,4.3, 75,Noroeste  31,916.4 
+ Cipolletti,27-abril-2026,21:00,Algo nublado,25 km,10.5,No se calcula, 50,Calma,982.8 
+ El Bols�n,27-abril-2026,21:00,Parcialmente nublado,30 km,6.4,No se calcula, 92,Calma,976.9 
+ Maquinchao,28-abril-2026,07:00,Despejado,40 km,0.6,No se calcula, 96,Calma,910.2 
+ R�o Colorado,27-abril-2026,21:00,Algo nublado,15 km,7.2,No se calcula, 66,Noroeste  3,1002.1 
+ San Antonio Oeste,27-abril-2026,21:00,Algo nublado,30 km,8.8,No se calcula, 48,Sudoeste  3,1009.2 
+ Viedma,28-abril-2026,07:00,Despejado,30 km,2.4,-0.7, 87,Noroeste  11,1009.2 
+ Met�n,27-abril-2026,21:00,Cubierto con neblina,5 km,10,No se calcula, 92,Noreste  3,920.2 
+ Or�n,28-abril-2026,07:00,Cubierto,10 km,14.5,No se calcula, 92,Calma,972.5 
+ Rivadavia,28-abril-2026,06:00,Despejado,20 km,12.4,No se calcula, 85,Calma,989.7 
+ Salta,28-abril-2026,07:00,Cubierto con neblina,12 km,10.9,No se calcula, 93,Calma,877.9 
+ Tartagal,27-abril-2026,21:00,Nublado,10 km,13.4,No se calcula, 89,Sur  5,966.6 
+ Jachal,27-abril-2026,21:00,Algo nublado con polvo en suspensi�n,10 km,13.4,No se calcula, 37,Sudeste  3,882.8 
+ San Juan,28-abril-2026,07:00,Parcialmente nublado,15 km,6.9,No se calcula, 53,Sur  3,947.8 
+ San Luis,28-abril-2026,07:00,Cubierto,20 km,9,8.5, 72,Norte  5,935.6 
+ Santa Rosa del Conlara,27-abril-2026,21:00,Despejado,20 km,7.4,5.7, 77,Este  9,944 
+ Villa Reynolds,28-abril-2026,07:00,Nublado con lluvia,8 km,10,No se calcula, 75,Calma,959.8 
+ El Calafate,28-abril-2026,07:00,Nublado con precipitaci�n a la vista,20 km,4.4,No se calcula, 71,Direcciones Variables  3,970.6 
+ Gobernador Gregores,27-abril-2026,21:00,Despejado,45 km,6,4.0, 59,Norte  9,964.5 
+ Perito Moreno,27-abril-2026,21:00,Despejado,50 km,9.4,5.7, 61,Oeste  31,958 
+ Puerto Deseado,27-abril-2026,21:00,Despejado con lluvia en la hora anterior,30 km,10.8,No se calcula, 32,Sur  24,997.6 
+ R�o Gallegos,28-abril-2026,07:00,Nublado,30 km,5.4,No se calcula, 69,Direcciones Variables  1,993.4 
+ San Juli�n,27-abril-2026,21:00,Algo nublado,30 km,6.7,4.9, 67,Norte  9,999 
+ Santa Cruz,27-abril-2026,21:00,Parcialmente nublado,30 km,7,6.2, 71,Sudeste  5,991.8 
+ Ceres,28-abril-2026,06:00,Algo nublado,15 km,8.8,No se calcula, 86,Noreste  3,1006.2 
+ Rafaela,28-abril-2026,06:00,Despejado,10 km,5.4,No se calcula, 94,Calma,1005.7 
+ Reconquista,28-abril-2026,07:00,Algo nublado con neblina,10 km,11.3,No se calcula, 87,Este  5,1011.7 
+ Rosario,28-abril-2026,07:00,Cubierto,15 km,7.8,No se calcula, 87,Norte  3,1014.2 
+ Santa Fe,28-abril-2026,07:00,Despejado,12 km,5.2,4.1, 90,Noreste  5,1016 
+ Sunchales,28-abril-2026,07:00,Parcialmente nublado,15 km,6,No se calcula, 90,Este  3,1006.9 
+ Venado Tuerto,28-abril-2026,07:00,Cubierto,10 km,9.7,No se calcula, 76,Calma,1004.1 
+ Termas de Rio Hondo,27-abril-2026,21:00,Cubierto,10 km,13.9,No se calcula, 66,Noreste  9,984.4 
+ Santiago del Estero,28-abril-2026,07:00,Parcialmente nublado con neblina,10 km,9.6,No se calcula, 92,Calma,992.6 
+ R�o Grande B.A.,28-abril-2026,07:00,Cubierto,30 km,6.8,3.1, 75,Oeste  22,992.1 
+ Ushuaia,28-abril-2026,07:00,Parcialmente nublado,30 km,5.8,No se calcula, 80,Este  3,985.2 
+ Tucum�n,28-abril-2026,07:00,Cubierto con neblina,9 km,10.5,No se calcula, 91,Norte  7,963 
+ Base Belgrano II,28-abril-2026,06:00,Algo nublado,20 km,-21.7,-30.4, 67,Sur  13,953.6 
+ Base Esperanza,28-abril-2026,06:00,Cubierto,10 km,3.3,-1.8, 63,Oeste  25,971.4 
+ Base Carlini,28-abril-2026,06:00,Nublado,10 km,1.6,-4.8, 100,Noroeste  35,977.2 
+ Base Marambio,28-abril-2026,07:00,Cubierto con nevada,Menor a 100 mts,-10.6,-24.7, 70,Sur  77,950.2 
+ Base Orcadas,28-abril-2026,06:00,Cubierto con lluvia,5 km,1.7,-5.3, 92,Norte  42,994.2 
+ Base San Mart�n,28-abril-2026,06:00,Cubierto,20 km,-2.2,-10.0, 60,Este  37,971.4 
